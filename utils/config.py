@@ -1,3 +1,3 @@
-TOKEN = "6380080156:AAGsAW_vt3KEBKdwxT-vIEl_UVH2k-fCWtY"
+TOKEN = "token"
 
 voice = "AwACAgIAAxkBAANIZWuJSGWGkOR1XaiZhxpU9CufNdwAAkE-AAIl4lhLqaxQbfvkLAozBA"
